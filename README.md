@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a junior web developer currently working on my portfolio of self-inspired projects. I'm interested in design patterns, like accessibility and responsiveness, but especially game design. I am working on a web clock right now but soon will be back on my third iteration of my free web game: Dash-Man Jump!
+
+I am open to work. Find me on X, linkedin, and gamejolt under this name.
+
+Thanks for stopping by!
+
 <!--
 **samuelfishback/samuelfishback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
